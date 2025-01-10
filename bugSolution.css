@@ -1,0 +1,9 @@
+The typo in the class name should be corrected to ensure that the styles are applied properly.
+
+```css
+.example {
+  color: blue;
+}
+```
+
+By correcting the class name to ".example", the styles will be applied to elements with the correct class.
