@@ -1,0 +1,9 @@
+The following CSS rule is intended to apply a specific style to elements with the class "example", but due to a typo in the class name, it is not working as expected:
+
+```css
+.exmaple {
+  color: blue;
+}
+```
+
+The correct class name should be ".example".
